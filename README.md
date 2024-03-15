@@ -1,2 +1,5 @@
-# AboutMe
-About me landing page for github
+<div align="center">
+	<br>
+		<img src="Welcome.svg" width="100%" height="100%">
+	<br>
+</div>
